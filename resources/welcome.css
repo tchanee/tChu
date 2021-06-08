@@ -1,0 +1,8 @@
+/* Logo */
+
+.logo .visible {
+    -fx-fill: red;
+}
+.logo .invisible {
+    -fx-fill: white;
+}
